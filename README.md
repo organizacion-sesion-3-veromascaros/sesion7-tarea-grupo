@@ -1,5 +1,4 @@
 # sesion7-tarea-grupo
-sesion7-tarea-grupo
 
 Requisitos básicos
 El ejercicio que se propone consiste en construir con HTML5 y CSS3 (sin JavaScript) una galería de seis o más imágenes, inicialmente dispuestas en círculo como miniaturas y sensibles al ratón de forma que en cada momento se pueda elegir una que entonces, mediante una transición gradual, pase a mostrarse de forma destacada (al menos en tamaño) y con su orientación natural en el centro exacto del círculo. El posicionamiento de las miniaturas sobre el perímetro del círculo ha de ser preciso, sus centros deben quedar equiespaciados y la rotación de cada una de ellas debe hacer que la mediatriz de su base pase por el centro del círculo.
